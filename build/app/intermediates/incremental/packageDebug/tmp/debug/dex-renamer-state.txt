@@ -1,0 +1,4 @@
+#Mon Dec 28 08:49:16 COT 2020
+base.0=C\:\\Users\\jenfr\\OneDrive\\Desktop\\Flutter\\fredapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
